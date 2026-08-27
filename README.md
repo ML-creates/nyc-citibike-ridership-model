@@ -1,5 +1,4 @@
-# nyc-citibike-ridership-model
-Analyzing NYC Citi Bike ridership patterns using bike trip and weather data.
+
 # NYC Citi Bike Ridership Model
 
 Analyzing NYC Citi Bike ridership patterns using bike trip data and weather information to understand factors that influence daily demand.
@@ -20,6 +19,17 @@ Contains SQL queries used to build and prepare the analysis dataset.
 
 ### docs/
 Contains supporting documentation, notes, and project materials.
+
+## Tools & Technologies
+
+Python | SQL | BigQuery | Pandas | Scikit-learn | Jupyter Notebook
+
+## Project Evidence
+
+- Exploratory Data Analysis: `code/eda.ipynb`
+- Data Preprocessing: `code/preprocessing.ipynb`
+- Predictive Model: `code/model.ipynb`
+- SQL Queries: `queries/`
 
 
 ## TLAB IV — Predicting Daily Citi Bike Ridership
